@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hoteltara.rs	TRUE	/	FALSE	1999999999	wp_hotelier_session_62d235e57d39625ed08183a3edf3c1e2	4a3f6f9566538f55b7c245c63852bb18%7C%7C1692644961%7C%7C1692641361%7C%7C00ea17237cbef7fbf20a73b3b95b7331
+
